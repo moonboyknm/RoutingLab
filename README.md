@@ -1,8 +1,4 @@
-# Mega Lab Project: Multi-Area OSPF, Route Redistribution, and Inter-VLAN Routing
-
-**Name:** Kratik
-**Course:** B.Tech CSE (Cybersecurity)
-**Environment:** Cisco 7200 Emulation (GNS3)
+# Multi-Area OSPF, Route Redistribution, and Inter-VLAN Routing
 
 ## 1. Aim
 To design, configure, and verify a large-scale enterprise topology consisting of 6 routers and 12 end-hosts (VPCs). The network integrates Inter-VLAN Routing (Router-on-a-Stick), Multi-Area OSPF (Area 0 and Area 1), RIPv2, and two-way Route Redistribution to achieve full end-to-end connectivity across disparate routing domains.
